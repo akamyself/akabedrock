@@ -319,7 +319,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/Finder/zipball/b6735d1fc16da13c4c7dddfe78366a4a098cf011",
                 "reference": "b6735d1fc16da13c4c7dddfe78366a4a098cf011",
-                "shasum": ""
+               "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
@@ -354,7 +354,7 @@
             "description": "Symfony Finder Component",
             "homepage": "http://symfony.com",
             "time": "2014-01-07 13:28:54"
-        },
+       },
         {
             "name": "vlucas/phpdotenv",
             "version": "1.0.6",
@@ -522,7 +522,7 @@
                 "url": "http://plugins.svn.wordpress.org/allow-php-in-posts-and-pages/",
                 "reference": "trunk"
             },
-            "dist": {
+           "dist": {
                 "type": "zip",
                 "url": "http://downloads.wordpress.org/plugin/allow-php-in-posts-and-pages.zip",
                 "reference": null,
@@ -633,7 +633,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "http://wordpress.org/plugins/wp-native-dashboard/"
-        }
+       }
     ],
     "packages-dev": [
 

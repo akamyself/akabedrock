@@ -62,7 +62,7 @@
     "wp-cli/wp-cli": "v0.14.1",
     "vlucas/phpdotenv": "~1.0.6",
     "wpackagist/wp-native-dashboard": "*",
-    "wpackagist/allow-php-in-posts-and-pages": "*",
+   "wpackagist/allow-php-in-posts-and-pages": "*",
     "wpackagist/php-code-widget": "*",
     "wpackagist/display-widgets": "*",
     "wpackagist/widgets-on-pages": "*",
